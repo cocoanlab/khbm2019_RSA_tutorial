@@ -8,7 +8,6 @@ Date: 2019/8/17 @ KHBM 2019 Summer school
 To run the **Matlab scripts** `tutorial_main.mlx` (or `tutorial_main.m`): 
 
 + [CanlabCore tools](https://github.com/canlab/CanlabCore)
-+ [CocoanCore tools](https://github.com/cocoanlab/cocoanCORE) 
 
 + For full functionality, make sure to install:
 	- Matlab Statistics and Machine Learning toolbox
