@@ -11,14 +11,15 @@ To run the **Matlab scripts** `tutorial_main.mlx` (or `tutorial_main.m`):
 + [CocoanCore tools](https://github.com/cocoanlab/cocoanCORE) 
 
 + For full functionality, make sure to install:
-	1. Matlab Statistics and Machine Learning toolbox
-	2. [Statistical Parametric Mapping (SPM) toolbox](https://www.fil.ion.ucl.ac.uk/spm/) 
+	- Matlab Statistics and Machine Learning toolbox
+	- [Statistical Parametric Mapping (SPM) toolbox](https://www.fil.ion.ucl.ac.uk/spm/) 
 
 The Matlab script `tutorial_main.mlx` was tested on macOS High Sierra with Matlab 9.5 R2018b.
 
 
 ## Dataset
 from Woo et al., 2014, Nat Comms [PDF](https://cocoanlab.github.io/pdfs/Woo_2014_NatComms.pdf)
+
 _N_ = 59
 
 #### Tasks
