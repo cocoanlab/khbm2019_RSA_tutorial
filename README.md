@@ -5,8 +5,7 @@ Date: 2019/8/17 @ KHBM 2019 Summer school
 
 ## Slides
 
-Download: [Woo\_KHBM2019\_summerschool\_RSA.pdf](/slide/Woo_KHBM2019_summerschool_RSA.pdf)
-
+Download: <a href="/slide/Woo_KHBM2019_summerschool_RSA.pdf">Slides PDF</a>
 ## Dependencies
 
 To run the **Matlab scripts** `tutorial_main.mlx` (still working on the code; I will upload the final mlx, m, html files soon)
