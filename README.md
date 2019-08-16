@@ -1,6 +1,7 @@
 # Representational Similarity Analysis tutorial
 
 Author: Choong-Wan Woo (Sungkyunkwan University) https://cocoanlab.github.io/
+
 Date: 2019/8/17 @ KHBM 2019 Summer school
 
 ## Slides
