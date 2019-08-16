@@ -9,7 +9,9 @@ Download: You can download the slide PDF [here](/slide/Woo_KHBM2019_summerschool
 
 ## Dependencies
 
-To run the **Matlab scripts** `tutorial_main.mlx` (still working on the code; I will upload the final mlx, m, html files soon)
+To run the **Matlab scripts** `tutorial_main.mlx`, or `tutorial_main.m`, you will need the following tools installed in your computer. The code and results can be viewed in `tutorial_main.html` or `tutorial_main.pdf`. 
+
++ Matlab (> 2016 version)
 
 + [CanlabCore tools](https://github.com/canlab/CanlabCore)
 
@@ -23,9 +25,9 @@ The Matlab script `tutorial_main.mlx` was tested on macOS High Sierra with Matla
 See also RSA toolbox written by Kriegeskorte group: [https://github.com/rsagroup/rsatoolbox](https://github.com/rsagroup/rsatoolbox)
 
 ## Dataset
-from Woo et al., 2014, Nat Comms [PDF](https://cocoanlab.github.io/pdfs/Woo_2014_NatComms.pdf)
+from Woo et al., 2014, Nat Comms; Paper PDF can be downloaded [here](https://cocoanlab.github.io/pdfs/Woo_2014_NatComms.pdf)
 
-_N_ = 59
+Participants: _N_ = 59
 
 #### Tasks
 There were two types of tasks, and in each task, there were two conditions (2 x 2 design)
