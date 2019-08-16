@@ -5,7 +5,8 @@ Date: 2019/8/17 @ KHBM 2019 Summer school
 
 ## Slides
 
-Download: <a href="/slide/Woo_KHBM2019_summerschool_RSA.pdf">Slides PDF</a>
+Download: You can download the slide PDF [here](/slide/Woo_KHBM2019_summerschool_RSA.pdf)
+
 ## Dependencies
 
 To run the **Matlab scripts** `tutorial_main.mlx` (still working on the code; I will upload the final mlx, m, html files soon)
@@ -18,6 +19,8 @@ To run the **Matlab scripts** `tutorial_main.mlx` (still working on the code; I 
 
 The Matlab script `tutorial_main.mlx` was tested on macOS High Sierra with Matlab 9.5 R2018b.
 
+
+See also RSA toolbox written by Kriegeskorte group: [https://github.com/rsagroup/rsatoolbox](https://github.com/rsagroup/rsatoolbox)
 
 ## Dataset
 from Woo et al., 2014, Nat Comms [PDF](https://cocoanlab.github.io/pdfs/Woo_2014_NatComms.pdf)
