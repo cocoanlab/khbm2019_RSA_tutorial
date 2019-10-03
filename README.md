@@ -8,6 +8,8 @@ Date: 2019/8/17 @ KHBM 2019 Summer school
 
 Download: You can download the slide PDF [here](/slide/Woo_KHBM2019_summerschool_RSA.pdf)
 
+If you want PPT file (>50MB), please use the following dropbox [link](https://www.dropbox.com/s/rg3dlcklyv20m0q/khbm_2019_summer_rsa.pptx?dl=0)
+
 ## Dependencies
 
 To run the **Matlab scripts** `tutorial_main.mlx`, or `tutorial_main.m`, you will need the following tools installed in your computer. The code and results can be viewed in `tutorial_main.html` or `tutorial_main.pdf`. 
